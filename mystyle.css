@@ -1,0 +1,95 @@
+.menu{
+    margin-left: 10px;
+    margin-top: 20px;
+    color: black;
+    font-family: 'New Times Roman', Times, serif;
+    font-size: 20px;
+    display: inline-block;
+    font-weight: 300;
+  }
+  
+  .menu:hover{
+  color: purple;
+  }
+  
+  .title{
+          margin-left: 350px;
+          width: 800px;
+          font-size: 45px;
+          display: block;
+          }
+         
+   .under_title{
+     color: purple;
+     font-size: 15px;
+     font-family: 'Times New Roman', Times, serif;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     display: inline-block;
+   }
+   
+   .first{
+     margin-left: 350px;
+   }
+   
+   .image{
+     width: 1000px;
+     display: block;
+     margin: 0 auto;
+   }
+   
+   .descript{
+     width: 1000px;
+     display: block;
+     margin: 50px auto;
+     font-family: 'Times New Roman', Times, serif;
+     color: black;
+     font-size: 15px;
+   }
+   
+   header{
+     position: sticky;
+     top: 0;
+     background-color: pink;
+   }
+   
+   .subscribe{
+     padding: 10px;
+     width: 150px;
+   }
+   
+   .subscribe input{
+     width: 200px;
+     padding: 10px;
+   }
+   
+   .subscribe button{
+     background-color: purple;
+     border: none;
+     padding: 5px 10px;
+     color: pink;
+     font-weight: bold;
+   }
+
+   .review{
+      margin-top: 50px;
+      border: 1px solid black;
+      padding: 20px;
+   }
+
+   .rating{
+    font-size: 24px;
+    margin-bottom: 10px;
+   }
+
+   .star{
+    color: palevioletred;
+   }
+
+   input[type="text"],select,textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 20px;
+   }
